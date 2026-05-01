@@ -122,7 +122,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:rahulmanchanda015@gmail.com" target="_blank">
+      <a href="mailto:gunuchaba6@gmail.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/><br>
         Gmail
       </a>
